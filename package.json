@@ -9,10 +9,10 @@
   },
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://yourusername.github.io/hello-world-website",
+  "homepage": "https://thecatfather.github.io/hello-world-website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/hello-world-website.git"
+    "url": "https://github.com/thecatfather/hello-world-website.git"
   },
   "dependencies": {},
   "devDependencies": {}
