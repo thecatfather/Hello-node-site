@@ -42,7 +42,7 @@ This project is set up to deploy automatically to GitHub Pages using GitHub Acti
    Any changes pushed to the `main` branch will trigger the deployment workflow defined in `.github/workflows/deploy.yml`.
 
 2. **Access the Live Site**
-   After deployment, you can access your live site at `https://yourusername.github.io/hello-world-website`.
+   After deployment, you can access your live site at `https://yourusername.github.io/Hello-node-site`.
 
 ## License
 
